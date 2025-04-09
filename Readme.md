@@ -31,9 +31,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=nltk&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=llm&logoColor=white)
 ![Gen AI](https://img.shields.io/badge/Gen_AI-000000?style=for-the-badge&logo=genai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -46,16 +43,16 @@
 
 ## 📌 Projects
 
-### 🔹 [Event Management System](https://github.com/AnasHenry/BookingHall)  
-📅 A full-stack web app with React, Node.js, and MongoDB for event booking and management.
+### 🔹 [barberooker](https://github.com/KRISHNAKUMAR-N-04/Barberooker)  
+📅 A full-stack web app with React, Node.js, and MongoDB for barber booking and management.
 
-### 🔹 [Photograph Management System](https://github.com/AnasHenry/PhotoManagerAI)  
-📷 A full-stack web application with Admin & User login using React, Node.js, and MongoDB for photo management.  
+### 🔹 [Outfit.store](https://github.com/KRISHNAKUMAR-N-04/Outfit.store)  
+📷 A E-commerce full stack application using MERN Stack.  
 
-### 🔹 [E-Commerce Recommendation System](https://github.com/AnasHenry/Recommender-Algorithm)  
-🛒 Uses filtering algorithms for recommending products in an E-Commerce Website.  
+### 🔹 [Movie Recommendation System](https://github.com/KRISHNAKUMAR-N-04/Movie-Recommendation)  
+🛒 A Model which uses filtering algorithms for recommending movies  
 
-🔗 More projects on my [GitHub Repositories](https://github.com/AnasHenry)
+🔗 More projects on my [GitHub Repositories](https://github.com/KRISHNAKUMAR-N-04)
  
 ---
 
@@ -63,27 +60,27 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AnasHenry&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnasHenry&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHenry&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KRISHNAKUMAR-N-04&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KRISHNAKUMAR-N-04&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMAR-N-04&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 
 ---
 ## 📊 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ANAS_HENRY?theme=dark&font=Montserrat&ext)](https://leetcode.com/u/ANAS_HENRY/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/N_KRISHNAKUMAR?theme=dark&font=Montserrat&ext)](https://leetcode.com/u/N_KRISHNAKUMAR/)
 
 ---
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anas-henry-a-940245259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ANAS_HENRY/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/anashenrya"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:anashenrya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/krishnakumar-nagarajan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/N_KRISHNAKUMAR/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/krishnakumarn04"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:krishnakumarnagarajan04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐ **Thank you for visiting my profile! Let's collaborate and innovate together!**
+⭐ **Happy with your visit Bud. Looking forward for collabrations!**
