@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://camo.githubusercontent.com/30d1fc9dec67d165016698dc28b70c1e5e419baf67f6f0bdb5021091e5f889ca/687474703a2f2f73766e2e64656c70682d696e2e6e65742f6572672f746167732f313231342f7777772f6573642f7468652d67617264656e2d646f672d74726965642d6e6f742d746f2d6261726b2e706e67)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=genai&logoColor=white)
 
 ---
 
